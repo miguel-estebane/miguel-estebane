@@ -1,7 +1,8 @@
-# ¡Hola, bienvenid@! 👾🌟  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+<p align="center">
+  <strong style="font-size: 24px;">¡Hey, te saluda Miguel!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+</p>
 
-![Banner Personalizado](Tarjeta.png)
+![Banner Personalizado](Tarjeta1.png)
 
 ## Sobre mí 👋
 ¡Hola! Soy un apasionado desarrollador con experiencia en una amplia gama de proyectos y tecnologías. Mi trayectoria incluye:
